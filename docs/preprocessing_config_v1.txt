@@ -1,0 +1,4 @@
+Normalization = Z-score per unit
+Window size   = 30
+Dropped const = ['setting_3', 'sensor_1', 'sensor_5', 'sensor_10', 'sensor_16', 'sensor_18', 'sensor_19']
+Split units   = 80/20 (seed=42)
